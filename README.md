@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**narminisgandarova/narminisgandarova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 🔭 I’m currently working on with my project<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about React<br>⚡ Fun fact I am Funny
 
